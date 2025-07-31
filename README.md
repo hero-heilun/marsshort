@@ -54,8 +54,7 @@
 ```
 
 ## 效果预览
-https://github.com/hero-heilun/marsshort/blob/c14c4c90e23c6ff4e398a604004e463768fa7472/Simulator%20Screenshot%20-%20iPhone%2016%20Plus%20-%202025-07-31%20at%2012.34.06.png
-
+![](2.png)
 ## 功能模块
 
 ### 用户端功能
