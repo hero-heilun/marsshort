@@ -54,7 +54,7 @@
 ```
 
 ## 效果预览
-
+![](Simulator Screenshot - iPhone 16 Plus - 2025-07-31 at 12.34.06.png)
 
 ## 功能模块
 
